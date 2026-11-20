@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "id": "aevv.crt",
+  "name": "CRT",
+  "version": "0.1.0",
+  "author": "aevv",
+  "description": "A CRT effect: scanlines, a vignette and chromatic aberration, by replacing an engine shader.",
+  "license": "MIT",
+  "source": "https://github.com/aevv/melvor-crt",
+  "host": ">=0.1"
+}
